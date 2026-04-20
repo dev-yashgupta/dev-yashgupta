@@ -1,30 +1,266 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yash%20Gupta&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling&cache=3" width="100%" alt="Yash Gupta - Software Engineer & AI Innovator" />
+</div>
 
-# 💫 About Me:
-I'm a passionate Software Engineer and AI Innovator with expertise in Artificial Intelligence, Blockchain, Web Development, App Development, and Full-stack Development. I love working with cutting-edge technologies and am always eager to learn and explore new possibilities.<br>Currently pursuing Master in Computer Application at Chandigarh University. My journey includes building diverse projects AI assistants like Sofia, and developing platforms for social causes like Basti Ki Pathshala Foundation. I believe in creating solutions that make a real impact.
+<div align="center">
+  <a href="https://developer-yashgupta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-yashgupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/yashgupta_exe" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:yashgupta.exe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dev-yashgupta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-yash) 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder...">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder...">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder..." alt="Typing SVG" />
+  </picture>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developer-yashgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=developer-yashgupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yashgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=developer-yashgupta&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=developer-yashgupta&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-yashgupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dev-yashgupta?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dev-yashgupta?label=Stars&style=social" alt="GitHub Stars" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=developer-yashgupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Professional Summary
+
+I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **Master in Computer Application at Chandigarh University**, with deep expertise spanning **Artificial Intelligence, Blockchain, Full-Stack Web & App Development**. I build solutions that merge cutting-edge technology with real-world impact — from AI assistants to social-cause platforms.
+
+- 🔭 **Currently Building:** [Sofia AI Assistant](https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant) • [PulseFlow Analytics](https://github.com/dev-yashgupta/pulseFlow) • [HealthBridge AI](https://github.com/dev-yashgupta/helthbridge-ai)
+- 🌱 **Currently Learning:** Advanced Machine Learning, Blockchain Smart Contracts & Cloud-Native Architectures
+- 🤝 **Open to Collaborate on:** AI/ML Projects, Open Source Initiatives, Full-Stack Web Applications & Social Impact Tech
+- 📫 **Reach me at:** [yashgupta.exe@gmail.com](mailto:yashgupta.exe@gmail.com) | [Portfolio](https://developer-yashgupta.vercel.app)
+- ⚡ **Fun Fact:** I believe technology should serve humanity — from educating underprivileged children to predicting employee burnout!
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages:**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,php" alt="Languages" />
+
+**Frontend Development:**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+
+**Backend & Runtime:**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend" />&nbsp;
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" style="vertical-align: top;" />
+
+**AI & Machine Learning:**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML" />&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="vertical-align: top;" />
+
+**Blockchain & Web3:**
+<br>
+<img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain" />&nbsp;
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" style="vertical-align: top;" />
+
+**Database & DevOps:**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,vercel,aws,render,cloude" alt="Database and DevOps" />
+
+<br>
+
+**Core Competencies:**
+> `Full-Stack Architecture` • `AI/ML Integration` • `Blockchain Development` • `REST & GraphQL APIs` • `Cloud Deployment` • `Responsive UI/UX`
+
+---
+
+### 🚀 Featured Projects & Open Source
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sofia — Advanced AI Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Python, NLP, Cybersecurity APIs</p>
+      <ul>
+        <li>Built a personalized AI assistant with deep expertise in cybersecurity, programming, and technical research.</li>
+        <li>Integrated natural language understanding for complex multi-domain queries and intelligent response generation.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">PulseFlow — AI Analytics Platform</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/pulseFlow" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> TypeScript, Next.js, AI/ML Models</p>
+      <ul>
+        <li>AI-powered analytics platform connecting employee wellbeing with business outcomes.</li>
+        <li>Real-time burnout prediction engine and team performance optimization dashboard.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HealthBridge AI Platform</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/helthbridge-ai" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Next.js, TypeScript, scikit-learn, Node.js</p>
+      <ul>
+        <li>Full-stack health technology platform offering real-time disease prediction leveraging ML models.</li>
+        <li>Secure data workflow for symptom ingestion, feature extraction, and high-confidence classification via REST APIs.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Basti Ki Pathshala Foundation</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/Basti-Ki-Pathshala-Foundation" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> EJS, Node.js, Express, MongoDB</p>
+      <ul>
+        <li>Comprehensive web platform for an NGO providing quality education to children in slum communities across India.</li>
+        <li>Features donation system, volunteer coordination, and impact showcase with responsive design.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TikTok India Clone</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/TikTok-India" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> JavaScript, Node.js, Express</p>
+      <ul>
+        <li>Full-featured short-video platform with login, profile management, content discovery, and notifications.</li>
+        <li>Seamless user experience with real-time content feeds and social interaction features.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">AR Shop — Augmented Reality</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/AR-Shop" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Flutter, Dart, AR Core</p>
+      <ul>
+        <li>Augmented Reality shopping experience allowing users to visualize products in their space before purchasing.</li>
+        <li>Cross-platform mobile application with immersive 3D product rendering.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Milestones & Achievements
+
+- 🎓 **Education:** Pursuing **Master in Computer Application** at **Chandigarh University** (Aug 2025 — Present)
+- 💼 **Freelance Web Developer:** Delivered landing pages & dashboards for 3+ clients, optimized front-end performance and mobile responsiveness
+- 📜 **Certifications:**
+  - Introduction to AI, Data Science, NLP, Deep Learning & Computer Vision — **Wingspan**
+  - Introduction to AI & Java Programming — **Chandigarh University Advance Credit Program**
+  - Python (Basic) & JavaScript (Intermediate) — **HackerRank**
+- 🌍 **Social Impact:** Founded **Basti Ki Pathshala Foundation** digital platform — providing quality education to underprivileged children
+
+---
+
+### 📈 GitHub Activity & Analytics
+
+<div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-yashgupta&show_icons=true&hide_border=true&border_radius=10&theme=radical&v=2" height="190" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-yashgupta&layout=compact&hide_border=true&border_radius=10&theme=radical&v=2" height="190" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-yashgupta&hide_border=true&border_radius=10&theme=radical&v=1" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashgupta&theme=redical&custom_title=Contribution%20Graph&hide_border=true&area=true&v=1" width="95%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-yashgupta&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Together!
+
+<p>I'm always excited to collaborate on innovative projects, discuss technology, or brainstorm ideas that can make a real difference.</p>
+
+<a href="https://developer-yashgupta.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/dev-yashgupta" target="_blank">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:yashgupta.exe@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_an_Email-D14836?style=for-the-badge" alt="Email" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake-dark.svg" alt="Snake animation" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <p><i>✨ Transforming ideas into intelligent solutions — one commit at a time. ✨</i></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+</div>
