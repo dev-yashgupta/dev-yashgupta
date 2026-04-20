@@ -42,6 +42,9 @@
 
 I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **Master in Computer Application at Chandigarh University**, with deep expertise spanning **Artificial Intelligence, Blockchain, Full-Stack Web & App Development**. I build solutions that merge cutting-edge technology with real-world impact — from AI assistants to social-cause platforms.
 
+
+Every line of code I write carries purpose. I thrive on solving complex problems with elegant solutions and am always chasing the next breakthrough.
+
 - 🔭 **Currently Building:** [Sofia AI Assistant](https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant) • [PulseFlow Analytics](https://github.com/dev-yashgupta/pulseFlow) • [HealthBridge AI](https://github.com/dev-yashgupta/helthbridge-ai)
 - 🌱 **Currently Learning:** Advanced Machine Learning, Blockchain Smart Contracts & Cloud-Native Architectures
 - 🤝 **Open to Collaborate on:** AI/ML Projects, Open Source Initiatives, Full-Stack Web Applications & Social Impact Tech
