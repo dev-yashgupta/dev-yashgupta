@@ -46,7 +46,7 @@ I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **
 Every line of code I write carries purpose. I thrive on solving complex problems with elegant solutions and am always chasing the next breakthrough.
 
 - 🔭 **Currently Building:** [Sofia AI Assistant](https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant) • [PulseFlow Analytics](https://github.com/dev-yashgupta/pulseFlow) • [HealthBridge AI](https://github.com/dev-yashgupta/helthbridge-ai)
-- 🌱 **Currently Learning:** Advanced Machine Learning, Blockchain Smart Contracts & Cloud-Native Architectures
+- 🌱 **Exploring:** LLMs, Web3, Distributed Systems & Cloud Architecture
 - 🤝 **Open to Collaborate on:** AI/ML Projects, Open Source Initiatives, Full-Stack Web Applications & Social Impact Tech
 - 📫 **Reach me at:** [yashgupta.exe@gmail.com](mailto:yashgupta.exe@gmail.com) | [Portfolio](https://developer-yashgupta.vercel.app)
 - ⚡ **Fun Fact:** I believe technology should serve humanity — from educating underprivileged children to predicting employee burnout!
@@ -186,6 +186,10 @@ Every line of code I write carries purpose. I thrive on solving complex problems
 ### 🏆 Milestones & Achievements
 
 - 🎓 **Education:** Pursuing **Master in Computer Application** at **Chandigarh University** (Aug 2025 — Present)
+- 🤖 **Built Sofia** — A production-grade AI assistant combining NLP and real-time communication
+- 💚 **Social Impact** — Tech contributor to *Basti Ki Pathshala Foundation*, bridging the digital education gap
+- ⛓️ **Blockchain Builder** — Hands-on experience with smart contracts, DApps & Web3 integrations
+- ☁️ **Multi-Cloud Certified** — Deployed production apps across AWS, Azure & Google Cloud Platform
 - 💼 **Freelance Web Developer:** Delivered landing pages & dashboards for 3+ clients, optimized front-end performance and mobile responsiveness
 - 📜 **Certifications:**
   - Introduction to AI, Data Science, NLP, Deep Learning & Computer Vision — **Wingspan**
