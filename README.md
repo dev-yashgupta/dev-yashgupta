@@ -38,7 +38,7 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 Summary
 
 I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **Master in Computer Application at Chandigarh University**, with deep expertise spanning **Artificial Intelligence, Blockchain, Full-Stack Web & App Development**. I build solutions that merge cutting-edge technology with real-world impact — from AI assistants to social-cause platforms.
 
