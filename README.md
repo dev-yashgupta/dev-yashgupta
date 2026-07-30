@@ -153,9 +153,9 @@ Every line of code I write carries purpose. I thrive on solving complex problems
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">TikTok India Clone</h3>
+      <h3 align="center">Short-X</h3>
       <p align="center">
-        <a href="https://github.com/dev-yashgupta/TikTok-India" target="_blank">
+        <a href="https://github.com/dev-yashgupta/shortx" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
         </a>
       </p>
